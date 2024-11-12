@@ -1,0 +1,32 @@
+.product-card p {
+    font-size: 15px;
+    margin: 10px 0px;
+}
+.s {
+    text-decoration: none;
+    color: #ffffff;
+}
+.product-container2 {
+    display: flex;
+    overflow-x: auto;
+    white-space: nowrap;
+    height: 200px;
+}
+.product2 {
+    flex-grow: 0;
+    flex-shrink: 0;
+    flex-basis: auto;
+    width: 200px;
+    margin-left: 20px;
+    height: 100%;
+    text-align: center;
+    background-color: #919191;
+}
+.top1 {
+    font-size: 20px;
+    background-color: rgb(35, 79, 126);
+    text-decoration: none;
+    color: #ff872d;
+    margin-left: 46%;
+    padding: 18px;
+}
